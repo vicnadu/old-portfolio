@@ -1,6 +1,7 @@
 {
   "name": "portfolio_nextjs",
   "version": "0.1.0",
+  "homepage": "vicnadu.github.io/",
   "private": true,
   "scripts": {
     "dev": "next dev",
